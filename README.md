@@ -15,9 +15,9 @@ The purpose of this project is to code a small data exchange program using UNIX 
    ```bash
    cd minitalk
    make
-3. Run the server
+3. Run the server and note down the server PID
    ```bash
    ./server
 4. Now, in a new terminal, run the client
    ```bash
-   ./client [SERVER PID] [message]
+   ./client [server-pid] [message]
