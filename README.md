@@ -11,7 +11,7 @@ The purpose of this project is to code a small data exchange program using UNIX 
 1. Clone the repository
    ```
    git clone git@github.com:dianazinchenko/minitalk.git
-2. Go inside the project folder and compile the library
+2. Go inside the project folder and compile
    ```bash
    cd minitalk
    make
